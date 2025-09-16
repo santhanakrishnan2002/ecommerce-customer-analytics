@@ -46,15 +46,18 @@ The analysis is structured in several key phases:
 
 The repository is structured with modular notebooks for each phase of the analysis:
 
+data/
+
+  |-- cleaned_online_retail.csv  <-- Cleaned data used for analysis
+  |-- online_retail.csv          <-- Raw data used for analysis
+
 notebooks/
+
   |-- 01_Data_Cleaning_and_EDA.ipynb
   |-- 02_Market_Basket_Analysis(Custom).ipynb
   |-- 03_Market_Basket_Analysis(UK).ipynb
   |-- 04_Customer_Analytics_and_Segmentation.ipynb
 
-data/
-  |-- cleaned_online_retail.csv  <-- Cleaned data used for analysis
-  |-- online_retail.csv          <-- Raw data used for analysis
 
 .gitignore
 requirements.txt
