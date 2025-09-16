@@ -50,6 +50,8 @@ The analysis is structured in several key phases:
 The repository is structured with modular notebooks for each phase of the analysis:
 
 ```
+├── assets/
+│   └── dashboard_preview.png
 ├── data/
 │   ├── cleaned_online_retail.csv
 │   └── online_retail.csv
