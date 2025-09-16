@@ -1,8 +1,6 @@
-=================================================
-E-commerce Customer Analytics Project
-=================================================
+#E-commerce Customer Analytics Project
 
---- Project Overview ---
+#Project Overview
 
 This project performs a comprehensive analysis of a transactional e-commerce dataset to uncover customer purchasing patterns and create a strategic segmentation of the customer base. The primary goal is to provide actionable insights that can drive marketing strategies, improve product recommendations, and enhance customer retention.
 
