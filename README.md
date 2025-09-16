@@ -76,4 +76,4 @@ The repository is structured with modular notebooks for each distinct phase of t
     pip install -r requirements.txt
     ```
 3.  **Run the Notebooks:** Execute the Jupyter Notebooks in the `notebooks/` directory in numerical order to ensure the correct workflow.
-4.  WORK IN PROGRESS[**View the Dashboard:** The final insights are consolidated in a Power BI dashboard connected to the output files (`rfm_customer_segments.csv` and `market_basket_rules.csv`). ]
+4.  **View the Dashboard:** The final insights are consolidated in a Power BI dashboard connected to the output files (`rfm_customer_segments.csv` and `market_basket_rules.csv`).
