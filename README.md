@@ -88,7 +88,7 @@ The repository is structured with modular notebooks for each phase of the analys
 
 The final insights from the RFM analysis and core e-commerce metrics are consolidated into an interactive Power BI dashboard.
 
-### [View the Interactive Dashboard Here](https://app.powerbi.com/reportEmbed?reportId=d0e9d2be-45ba-408c-b674-7512d2b87036&autoAuth=true&ctid=7b0130f1-5446-414e-848d-c136c10a4340)
+### [View the Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNjNiYWE5YTItMWE5YS00NWY2LTk0MTYtMmY0NjQxNjNmNzZjIiwidCI6ImVhOGFhNDU2LThhMjUtNGNjMy1iZmVlLTAzN2Q4OWM5ZWQ1MSJ9)
 
 *__Note:__ This dashboard has been made publicly accessible using Power BI's "Publish to web" feature.*
 
