@@ -117,7 +117,7 @@ The repository is structured with modular notebooks for each phase of the analys
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/santhanakrishnan2002/ecommerce-customer-analytics.git](https://github.com/santhanakrishnan2002/ecommerce-customer-analytics.git)
+    git clone "https://github.com/santhanakrishnan2002/ecommerce-customer-analytics.git"
     ```
 2.  **Install Dependencies:**
     ```bash
