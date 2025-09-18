@@ -1,6 +1,6 @@
-# 🛒 E-commerce Customer Analytics  
+#  E-commerce Customer Analytics  
 
-## 📌 Business Problem  
+##  Business Problem  
 The client, an e-commerce business, faced challenges in understanding customer behavior and maximizing revenue opportunities. Specifically:  
 - Limited visibility into **who their best customers are** and how to retain them.  
 - Missed opportunities for **cross-sell and up-sell** due to lack of product association analysis.  
@@ -11,7 +11,7 @@ The objective was to build a **data-driven analytics framework** that could unco
 
 ---
 
-## 📊 Structured Approach  
+## Structured Approach  
 
 ### 1. Data Understanding & Cleaning  
 - Explored transactional data containing customer purchases, product categories, and timestamps.  
@@ -50,7 +50,7 @@ The objective was to build a **data-driven analytics framework** that could unco
 
 ---
 
-## 💡 Recommendations  
+##  Recommendations  
 
 1. **Customer Retention & Loyalty**  
    - Offer exclusive rewards to **Champions** to increase lifetime value.  
@@ -70,7 +70,7 @@ The objective was to build a **data-driven analytics framework** that could unco
 
 ---
 
-## 🚀 Business Impact  
+##  Business Impact  
 
 - **Revenue Uplift:** Cross-sell bundles projected a **10–15% increase in basket value**.  
 - **Reduced Churn:** Targeted campaigns could cut churn by **5–8%**.  
@@ -91,7 +91,7 @@ The objective was to build a **data-driven analytics framework** that could unco
 ---
 
 
-## 📁 Project Structure
+##  Project Structure
 
 The repository is structured with modular notebooks for each phase of the analysis:
 
@@ -113,7 +113,7 @@ The repository is structured with modular notebooks for each phase of the analys
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1.  **Clone the Repository:**
     ```bash
@@ -130,7 +130,7 @@ The repository is structured with modular notebooks for each phase of the analys
     The final insights are consolidated in a Power BI dashboard connected to the `rfm_customer_segments.csv` output file.
 ---
 
-## 📈 Interactive Dashboard
+## Interactive Dashboard
 
 The final insights from the RFM analysis and core e-commerce metrics are consolidated into an interactive Power BI dashboard.
 
