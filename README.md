@@ -75,7 +75,20 @@ The objective was to build a **data-driven analytics framework** that could unco
 - **Revenue Uplift:** Cross-sell bundles projected a **10–15% increase in basket value**.  
 - **Reduced Churn:** Targeted campaigns could cut churn by **5–8%**.  
 - **Marketing ROI:** Segmentation improved ROI by **2–3x** compared to generic campaigns.  
-- **Customer Retention:** Increased loyalty program effectiveness by **10%+**.  
+- **Customer Retention:** Increased loyalty program effectiveness by **10%+**.
+
+---  
+
+
+## Tech Stack & Libraries  
+
+- **Cloud Platform:** Microsoft Azure (Blob Storage, Azure Machine Learning)  
+- **Version Control:** Git & GitHub  
+- **Language:** Python  
+- **Key Libraries:** pandas, mlxtend, matplotlib  
+- **Dashboarding:** Power BI
+
+---
 
 
 ## 📁 Project Structure
