@@ -5,7 +5,6 @@ The client, an e-commerce business, faced challenges in understanding customer b
 - Limited visibility into **who their best customers are** and how to retain them.  
 - Missed opportunities for **cross-sell and up-sell** due to lack of product association analysis.  
 - High marketing spend without clarity on **ROI or target segmentation**.  
-- Difficulty in tracking KPIs such as **Average Order Value (AOV), Customer Lifetime Value (CLV), Retention, and Churn**.  
 
 The objective was to build a **data-driven analytics framework** that could uncover patterns, segment customers, and provide actionable insights for strategy.  
 
